@@ -7,6 +7,4 @@ public class TestController {
 
 	// 충돌 한번더 확인
 	// Revert 테스트
-	// =========================
-	// Revet 테스트 중
 }
